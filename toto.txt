@@ -1,0 +1,2 @@
+Bonjour Simplon
+Nano est un éditeur de texte.
